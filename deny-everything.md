@@ -1,7 +1,7 @@
-#Tolak semuanya
+# Tolak semuanya
 
 Contoh:   
-Meong suka anjing? Meong tidak suka anjing.
+Meong suka anjing? Meong tidak suka anjing.  
 Anda sudah minum susu? Saya belum minum susu.
 
 Anda orang Belanda?
