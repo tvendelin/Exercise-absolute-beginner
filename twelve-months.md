@@ -26,5 +26,5 @@ Bulan ini bulan Desember. Bulan lalu bulan apa?
 
 
 
-Copyright © Yuni Kartika 
+Copyright © Yuni Kartika http://learn-bahasa.com/
 
