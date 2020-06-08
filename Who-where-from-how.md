@@ -1,6 +1,6 @@
 # Jawablah pertanyaan di bawah ini dengan kata tanya yang tepat.
 
-...nama Anda?
+... nama Anda?
 
 Anda berasal ... mana?
 
@@ -12,7 +12,7 @@ Anda mau pergi ... mana?
 
 ... Anda ke Indonesia?
 
-...hari Anda?
+... hari Anda?
 
 Ada apel merah dan apel hijau. Anda mau apel ...?
 
