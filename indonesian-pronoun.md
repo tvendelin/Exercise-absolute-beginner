@@ -1,4 +1,4 @@
-# Fill the gaps with appropriate pronouns in the following dialogue.
+# Isilah titik-titik di bawah ini dengan kata ganti yang tepat.
 
 ## Peter dan Dita pergi ke Jakarta. Tina tinggal di Jogja.
 
