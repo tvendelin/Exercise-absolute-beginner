@@ -4,27 +4,27 @@ Contoh:
 Meong suka anjing? Meong tidak suka anjing.  
 Anda sudah minum susu? Saya belum minum susu.
 
-Anda orang Belanda?
+Anda orang Belanda? Saya bukan orang Belanda.
 
-Anda suka susu?
+Anda suka susu? Saya tidak suka susu.
 
-Anda orang Jepang?
+Anda orang Jepang? Saya bukan orang Jepang.
 
-Anda dari Inggris?
+Anda dari Inggris? Saya bukan dari Ingris.
 
-Anda suka keju?
+Anda suka keju? Saya tidak suka keju.
 
-Apakah Anda malas?
+Apakah Anda malas? Saya tidak malas.
  
-Apakah Anda orang malas?
+Apakah Anda orang malas? Saya tidak orang malas.
  
-Anda seorang guru?
+Anda seorang guru? Saya bukan seorang guru.
 
-Anda sudah makan?
+Anda sudah makan? Saya tidak makan.
 
-Anda belum mandi?
+Anda belum mandi? Saya tidak belum mandi.
 
-Anda sudah pernah ke Jerman?
+Anda sudah pernah ke Jerman? Saya tidak pernah ke Jerman.
 
 
 

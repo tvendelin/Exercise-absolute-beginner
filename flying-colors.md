@@ -1,24 +1,24 @@
 # Jawablah pertanyaan di bawah ini dengan warna yang tepat.
 
-Bendera Indonesia berwarna?
+Bendera Indonesia berwarna? Merah dan putih.
 
-Bendera Jerman berwarna? 
+Bendera Jerman berwarna? Hitam, merah dan kuning.
 
-Bendera Rusia berwarna? 
+Bendera Rusia berwarna? Putin, merah dan biru.
 
-Bendera Belgia berwarna? 
+Bendera Belgia berwarna? Hitam, kuning, merah.
 
-Bendera Polandia berwarna? 
+Bendera Polandia berwarna? Putih dan merah.
 
-Bendera Estonia berwarna? 
+Bendera Estonia berwarna? Biru, hitam, putih.
 
-Bendera Rumania berwarna? 
+Bendera Rumania berwarna? Biru, kuning, merah.
 
-Bendera Irlandia berwarna? 
+Bendera Irlandia berwarna? Hujan, putih, oranye.
 
-Bendera Hungaria berwarna? 
+Bendera Hungaria berwarna? Merah, putih dan hijau.
 
-Bendera Bolivia berwarna? 
+Bendera Bolivia berwarna? Merah, kuning, hijau.
 
 
 

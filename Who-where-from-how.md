@@ -1,20 +1,20 @@
 # Jawablah pertanyaan di bawah ini dengan kata tanya yang tepat.
 
-... nama Anda?
+Siapa nama Anda?
 
-Anda berasal ... mana?
+Anda berasal dari mana?
 
-Anda mau pergi ... mana?
+Anda mau pergi ke mana?
 
-... makanan favorit Anda?
+Apa makanan favorit Anda?
 
-... mana Anda tinggal?
+Dari mana Anda tinggal?
 
-... Anda ke Indonesia?
+Kenapa Anda ke Indonesia?
 
-... hari Anda?
+Apa hari Anda?
 
-Ada apel merah dan apel hijau. Anda mau apel ...?
+Ada apel merah dan apel hijau. Anda mau apel apa?
 
 
 

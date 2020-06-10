@@ -2,21 +2,21 @@
 
 ## Peter dan Dita pergi ke Jakarta. Tina tinggal di Jogja.
 
-Dita: Tina, ...pergi ke Jakarta. Saat ... kembali mari ... pergi ke Kesuma restoran.
+Dita: Tina, kami pergi ke Jakarta. Saat kami kembali mari kami pergi ke Kesuma restoran.
 
 Tina: Andy dan Ria pergi juga?
 
-Dita: Tidak, ... harus bekerja.
+Dita: Tidak, mereka harus bekerja.
 
 Tina: Dan Anto?
 
-Dita: ... bekerja juga.
+Dita: dia bekerja juga.
 
-Tina: Berapa lama libur ... ?
+Tina: Berapa lama libur kalian ?
 
 Dita: Empat hari.
 
-Tina: ... iri padamu.
+Tina: Saya iri padamu.
 
 
 
