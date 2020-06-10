@@ -26,3 +26,6 @@ Anda belum mandi?
 
 Anda sudah pernah ke Jerman?
 
+
+
+Copyright © Yuni Kartika http://learn-bahasa.com/
