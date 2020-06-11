@@ -8,13 +8,13 @@ Anda mau pergi ke mana?
 
 Apa makanan favorit Anda?
 
-Dari mana Anda tinggal?
+Di mana Anda tinggal?
 
 Kenapa Anda ke Indonesia?
 
-Apa hari Anda?
+Bagaimana hari Anda?
 
-Ada apel merah dan apel hijau. Anda mau apel apa?
+Ada apel merah dan apel hijau. Anda mau apel yang mana?
 
 
 
